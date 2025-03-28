@@ -1,12 +1,7 @@
-🌱 I’m currently learning Python
-
-🤔 I’m looking for help with coding
-
-💬 Ask me about nerdy kinds of stuff
-
-📫 How to reach me: dishiela12@gmail.com
-
-😄 Pronouns: she/her
-
-⚡ Fun fact:   I do digital art, watch anime, and read a lot. 
+Hi! My name is Dishiela, and I'm an Information Technology student at Dalubhasaan ng Lungsod ng Lucena (Formerly City College of Lucena)
+I'm a digital artist
+I love to play games
+🌱 I’m currently learning Python, HTML, and CSS
+💬 My Gmail account: dishiela12@gmail.com
+⚡ Fun fact: I eat a lot 
 
