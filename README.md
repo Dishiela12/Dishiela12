@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Dishiela, and I'm an Information Technology student at Dalubhasaan ng Lungsod ng Lucena (Formerly City College of Lucena) <br>I'm a digital artist <br>I love to play games <br>🌱 I’m currently learning Python, HTML, and CSS <br>💬 My Gmail account: dishiela12@gmail.com <br>⚡ Fun fact: I eat a lot
+Hi! My name is Dishiela, and I'm an Information Technology student at Dalubhasaan ng Lungsod ng Lucena (Formerly City College of Lucena) <br>I'm a digital artist <br>I love to play games <br>🌱 I’m currently learning HTML, CSS and Javascript <br>💬 My Gmail account: dishiela12@gmail.com <br>⚡ Fun fact: I eat a lot
 
 
 ## 🌐 Socials:
