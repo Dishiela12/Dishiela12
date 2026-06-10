@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Dishiela, and I'm an Information Technology student <br>I'm a digital artist <br>I love to play games <br>🌱 I’m currently learning HTML, CSS, Javascript, Typescript and React <br>💬 My Gmail account: dishiela12@gmail.com <br>⚡ 
+Hi! My name is Dishiela, and I'm an Information Technology student <br>I love to play games <br>🌱 I’m currently learning HTML, CSS, Javascript, Typescript and React <br>💬 My Gmail account: dishiela12@gmail.com <br>⚡ 
 
 
 ## 🌐 Socials:
